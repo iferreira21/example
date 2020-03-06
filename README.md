@@ -1,3 +1,2 @@
 # example
-
-Testing delete
+This is an example
